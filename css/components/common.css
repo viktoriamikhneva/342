@@ -23,7 +23,7 @@ body {
  
 
 .header-holder {
-  background-color: #2E6DA0;
+  background-color: #dedede;
   padding: 39px 84px 38px 81px;
   border-bottom: 1px solid #e0e9f0;
   display: flex;
@@ -135,7 +135,7 @@ a.call {
 
 
 .footer {
-  background-color: #2E6DA0;
+  background-color: #dedede;
   border-top:1px solid #e0e9f0;
   padding: 46px 80px; 
 }
